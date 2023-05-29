@@ -8,6 +8,8 @@ pyspark = "3.4.0"
 
 [dev-packages]
 pytest = "7.1.2"
+verbose = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
