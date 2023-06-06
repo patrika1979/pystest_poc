@@ -1,5 +1,3 @@
-#def test_data_join(spark_session):
- #   assert spark_session is not None
 from data_join import *
 from pyspark import *
 from pyspark.sql import Row
